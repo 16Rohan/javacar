@@ -21,7 +21,7 @@
     - Under **System Variables** or **User Variables** (dependingg upon your preference/usage), find, and select the **PATH** Variable.
     - Click **Edit**, then **New**, and add the address of your `JAVACAR` folder. Example: `C:\Tools\JAVACAR\`
     - Click OK -> OK -> OK.
-4) Open a new terminal, navigate to your working directory, and type: `javacar [args]`
+4) Open a new terminal, navigate to your working directory, and type: `javacar [args]` or type `javacar --help` for help.
 
 ## Quirks
 
